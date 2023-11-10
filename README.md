@@ -4,9 +4,9 @@ Hi 👋 My name is Vaibhav Upadhyay
 Computer Enthusiast
 -------------------
 
-* 🌍  I'm based in India
+* 🌍  I'm based in UK.
 * ✉️  You can contact me at [vaibhavupadhyay5@gmail.com](mailto:vaibhavupadhyay5@gmail.com)
-* 🤝  I'm open to collaborating on Information sharing systems over a decentralised P2P network.
+* 🤝  I'm open to collaborating on any project on AI (NLP) and Information sharing systems over a decentralised P2P network.
 
 <a href="https://www.twitter.com/vsmart111" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/vsmart111?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
