@@ -1,7 +1,7 @@
 Hi 👋 My name is Vaibhav Upadhyay
 =================================
 
-Computer Enthusiast
+Computer Enthusiast | Data Scientist | Fascinated with GenAI world |Into building LLM applications  |
 -------------------
 
 * 🌍  I'm based in UK.
