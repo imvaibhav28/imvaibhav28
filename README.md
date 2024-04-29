@@ -4,7 +4,7 @@ Hi 👋 My name is Vaibhav Upadhyay
 Computer Enthusiast | Data Scientist | Fascinated with GenAI world |Into building LLM applications  |
 -------------------
 
-* 🌍  I'm based in UK.
+* 🌍  I'm based in the UK.
 * ✉️  You can contact me at [vaibhavupadhyay5@gmail.com](mailto:vaibhavupadhyay5@gmail.com)
 * 🤝  I'm open to collaborating on any project on AI (NLP) and Information sharing systems over a decentralised P2P network.
 
